@@ -2,7 +2,4 @@
 
 Habituarnos al ciclo de trabajo con Git
 
-prueba
-
-
-hola
+cambio sin pull primero
